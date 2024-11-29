@@ -18,13 +18,20 @@ https://blue-coast-85f.notion.site/Heart-of-the-Abyss-b98bc496b1b7441f8179a77f1f
 
 Link to presentation video:
 
-https://youtu.be/rHXXKnU2o7c (Oral presentation video 2mins)
-https://youtu.be/xI0mJWRJ4M8 (This is a DEMO showcase Video have 7mins)
+https://youtu.be/rHXXKnU2o7c 
+
+(Oral presentation video 2mins)
+
+https://youtu.be/xI0mJWRJ4M8 
+
+(This is a DEMO showcase Video have 7mins)
 
 Link to Github (The game EXE): https://github.com/RfadLs/msc_cc_term4_final
 
 Link to One Drive (The file of the game):
 
 https://artslondon-my.sharepoint.com/:u:/r/personal/q_yu0620231_arts_ac_uk/Documents/MyWork/Heart%20of%20the%20Abyss.zip?csf=1&web=1&e=rL2FHs
+
+（alternate）
 
 https://drive.google.com/drive/folders/1EDdWsu4BdqMCEvW1GYddiT-Flja7qVFW?usp=sharing
