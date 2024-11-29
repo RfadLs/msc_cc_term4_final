@@ -25,4 +25,4 @@ Link to Github (The game EXE): https://github.com/RfadLs/msc_cc_term4_final
 
 Link to One Drive (The file of the game):
 
-https://drive.google.com/drive/folders/1mXdPKx95mC8yDR_rQWiPwjrelo9SVyWQ
+https://artslondon-my.sharepoint.com/:u:/r/personal/q_yu0620231_arts_ac_uk/Documents/MyWork/Heart%20of%20the%20Abyss.zip?csf=1&web=1&e=WP5fS5
