@@ -1,5 +1,8 @@
 # msc_cc_term4_final
  
+Name: Qintong Yu 
+Student ID: 23014362
+
 Creative Making: MSc Advanced Project
 
 Project Title: Heart of the Abyss
