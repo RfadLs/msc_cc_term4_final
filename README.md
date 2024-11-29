@@ -10,11 +10,7 @@ Project Title: Heart of the Abyss
 
 Project description:
 
-Dr. Voss awakens in an alien, mysterious place with no memory of her past. Strange surroundings stretch endlessly before her, filled with eerie clues and cryptic remnants of a life she cannot recall. As she ventures deeper, uncovering fragments of her lost memories, the truth begins to take shape—one haunting step at a time.
-
-Explore a beautifully unsettling world where every detail holds a piece of the puzzle. Engage with interactive environments, discover hidden memories, and face relentless foes in dynamic battles that demand both strategy and precision. In Heart of the Abyss, the story unfolds through your actions, blending environmental storytelling with seamless interaction mechanics to create a deeply immersive experience.
-
-Unravel the mystery of Dr. Voss's past and confront the shadows within. Will you piece together her story, or will the abyss consume you?
+The Heart of the Abyss, a 2D side-scrolling game using environmental storytelling integrated with interaction mechanics to craft an immersive player experience which narrates the story of its protagonist, Dr. Voss, who, while finding herself in some alien and mysterious place, does not have any idea about her past life. Players controlling Dr. Voss through these weird surroundings show clues that reveal how she reached this stage of amnesia.
 
 Link to Notion(All the detiles of the game):
 
