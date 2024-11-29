@@ -21,7 +21,8 @@ https://blue-coast-85f.notion.site/Heart-of-the-Abyss-b98bc496b1b7441f8179a77f1f
 
 Link to presentation video:
 
-https://youtu.be/rHXXKnU2o7c
+https://youtu.be/rHXXKnU2o7c (Oral presentation video 2mins)
+https://youtu.be/xI0mJWRJ4M8 (This is a DEMO showcase Video have 7mins)
 
 Link to Github (The game EXE): https://github.com/RfadLs/msc_cc_term4_final
 
